@@ -34,18 +34,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3LL22/D3LL22/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3LL22/D3LL22/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/D3LL22/D3LL22/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://static.wikia.nocookie.net/watchdogsbeta/images/8/8f/BottyCall.gif/revision/latest?cb=20201117102608"  />
+  <img height="200" src="https://i.pinimg.com/originals/ae/0a/a1/ae0aa14707e1b4bb35fe11b8f00a9956.gif"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/D3LL22/D3LL22/output/snake.svg" alt="Snake animation" />
 
 ###
